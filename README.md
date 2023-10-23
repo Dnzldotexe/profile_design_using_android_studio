@@ -6,5 +6,5 @@
 
 ### Where Credit is due:
 ---
-[YouTube: Simple Profile App in Android Studio | 2023](https://www.youtube.com/watch?v=xxW5xxkNtrM)
+[YouTube: Simple Profile App in Android Studio | 2023](https://www.youtube.com/watch?v=xxW5xxkNtrM) 
 [YouTube: How to open URLs using Intent in Android Studio 2021 (TextView, ImageView & Button) | CODE PROVIDED](https://www.youtube.com/watch?v=TU-yDCgpbZw)
